@@ -435,3 +435,4 @@ class MinimalBCHWallet {
 }
 
 module.exports = MinimalBCHWallet
+module.exports.default = MinimalBCHWallet
